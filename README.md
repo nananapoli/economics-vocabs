@@ -3,6 +3,8 @@ Accumulation of vocabularies from all the books or articles that I read.
 
 Just for me to review
 
+[page entry](https://nananapoli.github.io/economics-vocabs/)
+
 
 ## List
 
@@ -13,4 +15,6 @@ Just for me to review
     - [Algeria](./src/economics/2019-04-06/algeria)
     - [European banks](./src/economics/2019-04-06/european_banks)
 - ***[Mindset](.src/mindset)***
+
+
 
