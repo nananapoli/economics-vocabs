@@ -14,6 +14,7 @@ Just for me to review
     - [The Brexit Negotiations](./src/economics/2019-04-06/the_brexit_negotiations)
     - [Algeria](./src/economics/2019-04-06/algeria)
     - [European banks](./src/economics/2019-04-06/european_banks)
+    - [Welfare in India](./src/economics/2019-04-06/welfare_in_india)
 - ***[Mindset](.src/mindset)***
 
 
